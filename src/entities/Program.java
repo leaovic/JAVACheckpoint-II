@@ -11,10 +11,7 @@ public class Program {
         Scanner sc = new Scanner(System.in);
         SimpleDateFormat sdf = new SimpleDateFormat("dd-MM-aa");
 
-        System.out.println("Ola de novo");
-        System.out.println("Ola de novo");
-        System.out.println("Ola de novo");
-        System.out.println("Ola de novo");
+
 
     }
 }
