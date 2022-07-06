@@ -1,3 +1,7 @@
+import jdk.swing.interop.SwingInterOpUtils;
+import services.OnlinePaymentService;
+import services.PayPalService;
+
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -6,6 +10,10 @@ public class Main {
 
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
+
+        OnlinePaymentService ps = new PayPalService();
+
+        System.out.println(ps.paymentFee(200));
 
 
 
