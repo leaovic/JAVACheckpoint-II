@@ -25,6 +25,7 @@ public class Main {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
+        System.out.println("this is a loan simulation");
         System.out.println("Enter contract data");
         System.out.print("Number: ");
         Integer number = sc.nextInt();
