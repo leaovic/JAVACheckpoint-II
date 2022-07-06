@@ -12,6 +12,9 @@ public class Program {
         SimpleDateFormat sdf = new SimpleDateFormat("dd-MM-aa");
 
         System.out.println("Ola de novo");
+        System.out.println("Ola de novo");
+        System.out.println("Ola de novo");
+        System.out.println("Ola de novo");
 
     }
 }
