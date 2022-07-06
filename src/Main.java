@@ -9,6 +9,12 @@ public class Main {
 
         System.out.println("Olá GIT");
         System.out.println("Segundo teste");
+        System.out.println("Olá GIT");
+        System.out.println("Segundo teste");
+        System.out.println("Olá GIT");
+        System.out.println("Segundo teste");
+        System.out.println("Olá GIT");
+        System.out.println("Segundo teste");
 
 
 
