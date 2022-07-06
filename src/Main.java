@@ -7,15 +7,6 @@ public class Main {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Olá GIT");
-        System.out.println("Segundo teste");
-        System.out.println("Olá GIT");
-        System.out.println("Segundo teste");
-        System.out.println("Olá GIT");
-        System.out.println("Segundo teste");
-        System.out.println("Olá GIT");
-        System.out.println("Segundo teste");
-
 
 
     }
