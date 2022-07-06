@@ -8,6 +8,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Olá GIT");
+        System.out.println("Segundo teste");
 
 
 
